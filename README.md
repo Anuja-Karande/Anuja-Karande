@@ -13,6 +13,7 @@ I'm a passionate data analyst with a love for uncovering insights from data.
 - MySQL
 - PowerBI
 - Microsoft Excel
+- Python
 
 <!---
 Anuja-Karande/Anuja-Karande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

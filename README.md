@@ -24,7 +24,7 @@ I'm a passionate data analyst with a love for uncovering insights from data.
    -  Microsoft PowerPoint for crafting the presentation.
      
 
-2]Super store sales dashboard [Power BI] [Canva] [Github]() | [Linkedin](https://www.linkedin.com/posts/activity-7202653112984047616-2jPk?utm_source=share&utm_medium=member_desktop)
+2]Super store sales dashboard [Power BI] [Canva] [Github](https://github.com/Anuja-Karande/Super-store-sales-dashboard) | [Linkedin](https://www.linkedin.com/posts/activity-7202653112984047616-2jPk?utm_source=share&utm_medium=member_desktop)
 - I analyzed Superstore sales data using Power BI. 
 - This comprehensive dashboard offers valuable insights into sales performance, customer segments, and operational metrics.
 

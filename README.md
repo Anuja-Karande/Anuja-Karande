@@ -15,7 +15,7 @@ I'm a passionate data analyst with a love for uncovering insights from data.
 - Data Cleaning and Preprocessing
 
 #### Projects:
-1]Cofee shop sales Analysis[MS Excel][Power point][Github]() | Linkedin(https://www.linkedin.com/posts/activity-7179523551434002432-BZ8k?utm_source=share&utm_medium=member_desktop)
+1]Cofee shop sales Analysis[MS Excel][Power point][Github](https://github.com/Anuja-Karande/Coffee-Shop-Sales-Analysis) | Linkedin(https://www.linkedin.com/posts/activity-7179523551434002432-BZ8k?utm_source=share&utm_medium=member_desktop)
 - I have created an interactive Excel dashboard that provides comprehensive insights into coffee shop's sales performance and customer trends.📊☕️
 - Tools Used:
 ✅ Microsoft Excel for data analysis and dashboard creation.
